@@ -17,3 +17,5 @@ jeckins가 자동으로 인식함 ㄷ ㄷ
 hi again
 
 hh
+
+jenkins 다시 열었어여
