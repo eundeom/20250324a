@@ -5,3 +5,5 @@
 jenkins에 알림이 가요
 
 또 수정
+
+retry
